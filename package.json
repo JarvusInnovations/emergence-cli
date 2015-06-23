@@ -1,0 +1,19 @@
+{
+  "description": "CLI tools for emergence",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "flatiron": "0.4.3"
+  },
+  "devDependencies": {
+    "cli-easy": "0.1.0",
+    "vows": "0.6.1"
+  },
+  "scripts": {
+    "test": "vows --spec",
+    "start": "node app.js"
+  },
+  "name": "emergence-cli",
+  "author": "Chris Alfano <chris@jarv.us>",
+  "homepage": "http://emr.ge"
+}
