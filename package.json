@@ -3,7 +3,11 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
-    "flatiron": "0.4.3"
+    "flatiron": "0.4.3",
+    "inquirer": "^0.8.2",
+    "async": "^1.2.1",
+    "request": "^2.57.0",
+    "agentkeepalive": "^2.0.0"
   },
   "devDependencies": {
     "cli-easy": "0.1.0",
