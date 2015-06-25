@@ -2,28 +2,23 @@
   "sites": {
     "dev-chris-v1.node0.slate.is": {
       "hostname": "dev-chris-v1.node0.slate.is",
-      "useSSL": false,
-      "token": "f013fa7d4f0ac1fea0dd11fb2e646f23"
+      "useSSL": false
     },
     "dev-ryon-v1.node0.slate.is": {
       "hostname": "dev-ryon-v1.node0.slate.is",
-      "useSSL": false,
-      "token": "e28fac7bd9189d794d43e483f3469571"
+      "useSSL": false
     },
     "dev-bill-v1.node0.slate.is": {
       "hostname": "dev-bill-v1.node0.slate.is",
-      "useSSL": false,
-      "token": "cc489d2637ca1a1440df97e307cb6ae3"
+      "useSSL": false
     },
     "v2-rc.node0.slate.is": {
       "hostname": "v2-rc.node0.slate.is",
-      "useSSL": false,
-      "token": "a83a048b77d11b17389848df012b1682"
+      "useSSL": false
     },
     "v2.slate.is": {
       "hostname": "v2.slate.is",
-      "useSSL": false,
-      "token": "abf2fef7a2ab57edc793422b8fce5c26"
+      "useSSL": false
     }
   }
 }
